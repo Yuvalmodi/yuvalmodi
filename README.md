@@ -7,7 +7,9 @@
 
 **Pronouns:** he/him  
 **Location:** Ankleshwar, India  
-**Title:** Student | Aspiring Embedded & AI Designer
+**Title:** Student | Aspiring Embedded & AI Designer  
+
+*Last updated: August 18, 2025*
 
 ---
 
@@ -50,9 +52,8 @@
 
 ## 🔗 Connect with Me!
 <p>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!-- Add more if you want! -->
+<a href="mailto:yuvalmodi0303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/modi-yuval-ab0392227/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ## 🕹️ Hobbies
