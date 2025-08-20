@@ -1,7 +1,7 @@
 <!-- Profile GIF -->
 # Hi, I'm Yuval Modi 👋
 <p align="center">
-  <img src="https://gifdb.com/images/high/coding-walking-cat-17mitwkziw2xzxxk.gif="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejVkczBqemw5dHVtbjBtZnkwODN3MTU0ZDRlYTcxczJ1NW1ndzljOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif"width=1000"/>
 </p>
 
 
