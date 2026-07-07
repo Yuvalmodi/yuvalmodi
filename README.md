@@ -8,12 +8,11 @@
 Pronouns: he/him  
 Location: Ankleshwar, India  
 Title: Student | Aspiring Embedded & AI Designer  
-Last updated: August 20, 2025
 ---
 
 ## 🚀 About Me
 - Passionate about Embedded Design and Artificial Intelligence.
-- Skilled in both hardware & software domains – I love to build, code, simulate, and innovate!
+- Skilled in both hardware & software domains – I build, code, simulate, and innovate!
 
 ## 🎓 Education
 - Bachelor's in Electronics & Communication Engineering (2023–2027)
