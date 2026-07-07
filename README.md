@@ -25,13 +25,18 @@ Last updated: August 20, 2025
 - 10th Board (GSHEB) – 2021  
   - P.P. Savani School, Ankleshwar  
   - Percentage: 92.8%
+## 💼 Experience 
+ @ATMIYATECH (surat)
+- embedded systems engineer
+- Done ARAS project prototype there
+
 
 ## 💡 Skills
 
 ### Software Skills
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" /> C
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" /> C++
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> Python
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> Python(basics)
 - <img src="https://www.shutterstock.com/image-vector/assembly-language-blue-gradient-concept-260nw-2174473253.jpg" width="20" /> Assembly
 - <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/verilog.png" width="20" /> Verilog
 
@@ -45,17 +50,10 @@ Last updated: August 20, 2025
 
 ## 🔍 Fields of Interest
 - Embedded Design & Development
-- VLSI
 - Artificial Intelligence
 
-## 🌟 Classic Profile Features
-- 📊 GitHub Stats
-- 🏆 Achievements & Badges
-- ✍️ Latest Blog Posts
-- 📝 Pinned Projects
-- 🎯 Contribution Graph
-- 🎨 Custom Banner/Emoji
-- 💬 Let's Connect Section
+
+
 
 ## 🔗 Connect with Me!
 <p>
@@ -72,9 +70,14 @@ Last updated: August 20, 2025
 </p>
 
 <!-- Classic feature: Contribution Graph -->
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yuvalmodi&limit=5" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuvalmodi&theme=default" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=yuvalmodi&hide_border=true&background=ffffff&ring=0D47A1&fire=FF9800&currStreakNum=0D47A1&currStreakLabel=0D47A1&sideNums=333333&sideLabels=555555&dates=555555&border_radius=4" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D47A1&height=2&width=100%25"/>
+</div>
 
 ---
 
