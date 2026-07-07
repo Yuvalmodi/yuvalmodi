@@ -12,7 +12,7 @@ Last updated: August 20, 2025
 ---
 
 ## 🚀 About Me
-- Passionate about Embedded Design, VLSI, and Artificial Intelligence
+- Passionate about Embedded Design and Artificial Intelligence.
 - Skilled in both hardware & software domains – I love to build, code, simulate, and innovate!
 
 ## 🎓 Education
